@@ -38,19 +38,29 @@ This project analyzes weekly sales data across multiple stores to uncover trends
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+## 📂 Project Structure
+
+```text
 sales-dashboard/
-│── dashboard.py
-│── requirements.txt
-│── README.md
+│
+├── dashboard.py
+├── requirements.txt
+├── README.md
 │
 ├── data/
-│ └── sales.csv
+│   └── sales.csv
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── kpi_section.png
+│   ├── forecast.png
+│   └── project_structure.png
 │
 └── .streamlit/
-└── config.toml
+    └── config.toml
 
-
----
 
 ## ▶️ How to Run the Project
 
@@ -72,11 +82,19 @@ sales-dashboard/
 
 ---
 
+
+
 ## 📸 Screenshots
 
-_Add screenshots of the dashboard here_
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
----
+### Key Performance Indicators
+![KPI Section](screenshots/kpi_section.png)
+
+### Sales Forecast
+![Forecast](screenshots/forecast.png)
+
 
 ## 👩‍💻 Author
 
