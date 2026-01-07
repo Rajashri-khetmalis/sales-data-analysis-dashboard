@@ -38,10 +38,6 @@ This project analyzes weekly sales data across multiple stores to uncover trends
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
-## 📂 Project Structure
-
 ```text
 sales-dashboard/
 │
